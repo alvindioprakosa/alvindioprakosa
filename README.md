@@ -1,13 +1,3 @@
-🔥 5+ Years Experience in Full Stack Development<br>
-🧱 150+ Projects Completed<br>
-🚀 SaaS & Multi-Tenant System Expert<br>
-🔌 REST API Developer & Integrator<br>
-💡 Database Architect & Optimizer<br>
-🧰 Laravel + Vue/React Specialist<br>
-🎯 100% Client Satisfaction<br>
-⚡ Lightning Fast Delivery<br>
-☁️ AWS EC2/S3 & DevOps Ready<br>
-
 Hi! I’m Alvin, a passionate Full Stack Developer with 5+ years of experience in building scalable web apps, SaaS platforms, and robust APIs using React, Vue, Laravel and AWS. With over 150 completed projects, I focus on crafting efficient, clean coded, and scalable solutions that solve real problems for businesses and startups.
 
 🧠 Services I Offer:<br>
